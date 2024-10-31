@@ -1,0 +1,11 @@
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\bin\Debug\net8.0\RelivNET.Dto.deps.json
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\bin\Debug\net8.0\RelivNET.Dto.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\bin\Debug\net8.0\RelivNET.Dto.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\RelivNET.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\RelivNET.Dto.AssemblyInfoInputs.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\RelivNET.Dto.AssemblyInfo.cs
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\RelivNET.Dto.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\RelivNET.Dto.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\refint\RelivNET.Dto.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\RelivNET.Dto.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Dto\obj\Debug\net8.0\ref\RelivNET.Dto.dll

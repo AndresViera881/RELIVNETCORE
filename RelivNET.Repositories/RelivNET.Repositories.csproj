@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RelivNET.DataAccess\RelivNET.DataAccess.csproj" />
+    <ProjectReference Include="..\RelivNET.Entities\RelivNET.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

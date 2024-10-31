@@ -1,0 +1,6 @@
+@RelivNET.API_HostAddress = http://localhost:5047
+
+GET {{RelivNET.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

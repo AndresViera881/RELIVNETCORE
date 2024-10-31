@@ -1,0 +1,13 @@
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\bin\Debug\net8.0\RelivNET.Entities.deps.json
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\bin\Debug\net8.0\RelivNET.Entities.runtimeconfig.json
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\bin\Debug\net8.0\RelivNET.Entities.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\bin\Debug\net8.0\RelivNET.Entities.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\RelivNET.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\RelivNET.Entities.AssemblyInfoInputs.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\RelivNET.Entities.AssemblyInfo.cs
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\RelivNET.Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\RelivNET.Entities.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\refint\RelivNET.Entities.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\RelivNET.Entities.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\RelivNET.Entities.genruntimeconfig.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Entities\obj\Debug\net8.0\ref\RelivNET.Entities.dll

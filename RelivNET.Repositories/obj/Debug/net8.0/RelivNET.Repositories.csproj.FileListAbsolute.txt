@@ -1,0 +1,17 @@
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\bin\Debug\net8.0\RelivNET.Repositories.deps.json
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\bin\Debug\net8.0\RelivNET.Repositories.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\bin\Debug\net8.0\RelivNET.Repositories.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\bin\Debug\net8.0\RelivNET.DataAccess.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\bin\Debug\net8.0\RelivNET.Entities.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\bin\Debug\net8.0\RelivNET.DataAccess.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\bin\Debug\net8.0\RelivNET.Entities.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.Repositories.csproj.AssemblyReference.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.Repositories.AssemblyInfoInputs.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.Repositories.AssemblyInfo.cs
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.Repositories.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.FA51A466.Up2Date
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.Repositories.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\refint\RelivNET.Repositories.dll
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\RelivNET.Repositories.pdb
+D:\Visual Studio\Net8\RelivNET\RelivNET.Repositories\obj\Debug\net8.0\ref\RelivNET.Repositories.dll
